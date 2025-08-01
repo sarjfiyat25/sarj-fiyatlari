@@ -1,0 +1,17 @@
+[
+  {"operator":"ZES","type":"AC","power_kW":"22","price_tl_per_kWh":8.99,"last_update":"2025-08-01"},
+  {"operator":"ZES","type":"DC","power_kW":"<180","price_tl_per_kWh":9.99,"last_update":"2025-08-01"},
+  {"operator":"ZES","type":"DC","power_kW":">180","price_tl_per_kWh":12.99,"last_update":"2025-08-01"},
+  {"operator":"Aksa Şarj","type":"AC","power_kW":"22","price_tl_per_kWh":8.99,"last_update":"2025-08-01"},
+  {"operator":"Aksa Şarj","type":"DC","power_kW":"<100","price_tl_per_kWh":9.99,"last_update":"2025-08-01"},
+  {"operator":"Aksa Şarj","type":"DC","power_kW":">100","price_tl_per_kWh":10.99,"last_update":"2025-08-01"},
+  {"operator":"Trugo (Shell)","type":"AC","power_kW":"22","price_tl_per_kWh":8.49,"last_update":"2025-08-01"},
+  {"operator":"Trugo (Shell)","type":"DC","power_kW":"<150","price_tl_per_kWh":10.60,"last_update":"2025-08-01"},
+  {"operator":"Trugo (Shell)","type":"DC","power_kW":">150","price_tl_per_kWh":11.82,"last_update":"2025-08-01"},
+  {"operator":"E‑şarj","type":"AC","power_kW":"22","price_tl_per_kWh":9.40,"last_update":"2025-08-01"},
+  {"operator":"E‑şarj","type":"DC","power_kW":"<90","price_tl_per_kWh":12.90,"last_update":"2025-08-01"},
+  {"operator":"E‑şarj","type":"DC","power_kW":">90","price_tl_per_kWh":13.70,"last_update":"2025-08-01"},
+  {"operator":"Voltrun","type":"AC","power_kW":"22","price_tl_per_kWh":9.29,"last_update":"2025-08-01"},
+  {"operator":"Voltrun","type":"DC","power_kW":"<100","price_tl_per_kWh":10.49,"last_update":"2025-08-01"},
+  {"operator":"Voltrun","type":"DC","power_kW":">100","price_tl_per_kWh":12.49,"last_update":"2025-08-01"}
+]
